@@ -9,6 +9,9 @@ Sumatra-Chain is a blockchain that contains the following information:
 ## Core
 
 - [X] ALMAC ADDRESSES (48-byte addresses using BLAKE2B derived from Public Key Format)
+- [ ] Pivotal Namespaces
+  - [ ] TrustNet by 0x20CB
+- [X] Related Chain Address (RelatedChainAddr)
 - [X] Latest State
   - [X] Latest State Updates
   - [X] Uses Generics 
