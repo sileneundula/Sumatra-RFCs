@@ -17,6 +17,12 @@ Sumatra-Chain is a blockchain that contains the following information:
   - [X] Uses Generics 
 - [ ] Bootstrap Nodes (using public key)
 
+## Mutable Sidechains
+
+- [X] Mutable Side-Chain known as `SumatraMutableInfo (SMI)
+  - [ ] Dervies from block address
+  - [ ] Creates a temporary block lattice
+  - [ ] Mutable information can be appended and a confirmation received at end.
 
 ## Security
 - [ ] Periodic Update (every 10-20 ALMAC blocks)
