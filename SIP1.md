@@ -12,10 +12,16 @@ Sumatra-Chain is a blockchain that contains the following information:
 - [ ] Pivotal Namespaces
   - [ ] TrustNet by 0x20CB
 - [X] Related Chain Address (RelatedChainAddr)
+  - [ ] OpenChain: OpenChain is the protocol to gather data from multiple chains.
+  - [ ] EphermalChainWithConfirmation: An Ephermal Chain is a chain that needs trust that will only last until confirmation of chain state and then is stored.
+  - [ ] SpawnedChains: A Spawned Chain is one spawned off of the current chain.
+  - [ ] 
 - [X] Latest State
   - [X] Latest State Updates
   - [X] Uses Generics 
 - [ ] Bootstrap Nodes (using public key)
+- [ ] Smart Contracts
+  - [ ] Use WASM.
 
 ## Mutable Sidechains
 
